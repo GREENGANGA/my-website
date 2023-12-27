@@ -202,7 +202,7 @@ const projects = [
     source_code_link: "https://github.com/GREENGANGA/normalcalc",
   },
   {
-    name: "Protfolio",
+    name: "Portfolio",
     tags: [
       {
         name: "Reactjs",
